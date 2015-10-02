@@ -1,0 +1,1 @@
+originally from: https://github.com/vuejs/vue-class-component
